@@ -1,0 +1,712 @@
+{
+    "errorCode": "0",
+    "errorMsg": "成功",
+    "result": {
+        "data": [
+            {
+                "marketPrice": 596.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "https://bimgs.weilaijishi.cn/seller/2530/common/6457b230-7667-11eb-ba8f-5d572faa2d39.jpg",
+                "priceType": 2,
+                "mallPrice": 119.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3140
+                    },
+                    {
+                        "level": 3,
+                        "id": 3188
+                    },
+                    {
+                        "level": 2,
+                        "id": 3165
+                    }
+                ],
+                "couponId": "",
+                "sales": 190383,
+                "activityId": "66c83b6815ae4d078cd51d4d37ee4d35",
+                "price": 59.9,
+                "couponType": 0,
+                "name": "【超值2套文胸套装组合】韩束无钢圈聚拢调整型收副乳文胸套装",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/2530/image/10001/98f28410-ffb3-11e9-8a5b-25598b85e653.jpg",
+                "spuId": 110490,
+                "commission": 5.99,
+                "state": 6,
+                "stock": 112107
+            },
+            {
+                "marketPrice": 198.8,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 139.7,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 3,
+                        "id": 2565
+                    },
+                    {
+                        "level": 2,
+                        "id": 2005
+                    },
+                    {
+                        "level": 1,
+                        "id": 1967
+                    }
+                ],
+                "couponId": "",
+                "sales": 28109,
+                "activityId": "",
+                "price": 139.7,
+                "couponType": 0,
+                "name": "奥尼斯兰 非转基因压榨橄榄油调和油食用油 5L*2",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/645/image/10001/c1cfa4a0-a6ab-11e9-a56f-59f9b0c0c692.jpg",
+                "spuId": 59313,
+                "commission": 8.38,
+                "state": 6,
+                "stock": 1373
+            },
+            {
+                "marketPrice": 39.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 19.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 3,
+                        "id": 3737
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    }
+                ],
+                "couponId": "",
+                "sales": 35659,
+                "activityId": "",
+                "price": 19.9,
+                "couponType": 0,
+                "name": "泉兮玻尿酸补水保湿面膜30ml*10片",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/846/image/10001/fbbcfc80-883d-11e9-930a-2d31847c2656.jpg",
+                "spuId": 49741,
+                "commission": 3.18,
+                "state": 6,
+                "stock": 34123
+            },
+            {
+                "marketPrice": 19.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    },
+                    {
+                        "level": 3,
+                        "id": 3736
+                    }
+                ],
+                "couponId": "",
+                "sales": 31409,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "伊诗兰顿 牛奶蜂蜜手蜡150g",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/544/image/10001/9dc81707-0d01-48a6-bbf8-70fd7681e7ba.jpg",
+                "spuId": 43710,
+                "commission": 0.99,
+                "state": 6,
+                "stock": 16457
+            },
+            {
+                "marketPrice": 570.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 198.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 2,
+                        "id": 2006
+                    },
+                    {
+                        "level": 1,
+                        "id": 1967
+                    },
+                    {
+                        "level": 3,
+                        "id": 2591
+                    }
+                ],
+                "couponId": "",
+                "sales": 11132,
+                "activityId": "",
+                "price": 198.0,
+                "couponType": 0,
+                "name": "【祛黄褐斑】康麦斯美国进口丽多羊胎素胶原蛋白抗氧化胶囊40粒",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/851/image/49021/626fd9c0-dab3-11ea-b06c-9717c6ecb1be.png",
+                "spuId": 49021,
+                "commission": 15.84,
+                "state": 6,
+                "stock": 5812
+            },
+            {
+                "marketPrice": 69.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 3,
+                        "id": 3737
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    }
+                ],
+                "couponId": "",
+                "sales": 50460,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "维美维侬果酸收缩毛孔精华液30ml",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/776/image/10001/17332e40-9bca-11e9-9553-47d683c448e0.jpg",
+                "spuId": 55359,
+                "commission": 0.99,
+                "state": 6,
+                "stock": 4109
+            },
+            {
+                "marketPrice": 169.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 139.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 3,
+                        "id": 2565
+                    },
+                    {
+                        "level": 2,
+                        "id": 2005
+                    },
+                    {
+                        "level": 1,
+                        "id": 1967
+                    }
+                ],
+                "couponId": "",
+                "sales": 47000,
+                "activityId": "",
+                "price": 139.9,
+                "couponType": 0,
+                "name": "质彤稻禾山茶橄榄食用植物调和油5L*2 健康生活 清香烹饪",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/644/image/58882/0b75bac0-136d-11eb-80f9-b526764b0c6d.png",
+                "spuId": 58882,
+                "commission": 8.39,
+                "state": 6,
+                "stock": 4314
+            },
+            {
+                "marketPrice": 345.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 138.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 2,
+                        "id": 2006
+                    },
+                    {
+                        "level": 1,
+                        "id": 1967
+                    },
+                    {
+                        "level": 3,
+                        "id": 2591
+                    }
+                ],
+                "couponId": "",
+                "sales": 17874,
+                "activityId": "",
+                "price": 138.0,
+                "couponType": 0,
+                "name": "【改善记忆】康麦斯忆立清进口DHA学生儿童成人孕妇补脑60粒",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/851/image/49091/3284eb00-e608-11ea-982a-49ba8ab13993.jpg",
+                "spuId": 49091,
+                "commission": 11.04,
+                "state": 6,
+                "stock": 619
+            },
+            {
+                "marketPrice": 29.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 3,
+                        "id": 3735
+                    },
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    }
+                ],
+                "couponId": "",
+                "sales": 30887,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "雅邦晶润魅惑唇膏口红3.8g",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/1543/image/75598/901659e0-c87a-11e9-8728-370940cf690c.jpg",
+                "spuId": 75598,
+                "commission": 0.99,
+                "state": 6,
+                "stock": 2533
+            },
+            {
+                "marketPrice": 269.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 89.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3705
+                    },
+                    {
+                        "level": 3,
+                        "id": 3742
+                    }
+                ],
+                "couponId": "",
+                "sales": 16434,
+                "activityId": "",
+                "price": 89.0,
+                "couponType": 0,
+                "name": "【张嘉倪推荐同款】伊芳妮抗皱额贴10片/盒",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/1483/image/10001/ad48fef0-b4c5-11e9-a9f8-2d1a539b3638.jpg",
+                "spuId": 64494,
+                "commission": 8.9,
+                "state": 6,
+                "stock": 339
+            },
+            {
+                "marketPrice": 39.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3705
+                    },
+                    {
+                        "level": 3,
+                        "id": 3742
+                    }
+                ],
+                "couponId": "",
+                "sales": 1787,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "泉兮 山羊奶身体乳250ml ",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/846/image/92568/17891320-5469-11ea-82d0-6d160589c7e4.jpg",
+                "spuId": 92568,
+                "commission": 0.59,
+                "state": 6,
+                "stock": 87
+            },
+            {
+                "marketPrice": 19.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 13.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 2,
+                        "id": 2278
+                    },
+                    {
+                        "level": 1,
+                        "id": 1960
+                    },
+                    {
+                        "level": 3,
+                        "id": 2280
+                    }
+                ],
+                "couponId": "",
+                "sales": 29630,
+                "activityId": "",
+                "price": 13.9,
+                "couponType": 0,
+                "name": "【16卷】钟情本色竹浆实芯卷纸3层卫生纸",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/1278/image/10001/dde88e90-b51f-11e9-b313-913ae99b2cd6.jpg",
+                "spuId": 64890,
+                "commission": 0.41,
+                "state": 6,
+                "stock": 1407
+            },
+            {
+                "marketPrice": 168.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 118.8,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 3,
+                        "id": 3739
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    }
+                ],
+                "couponId": "",
+                "sales": 11113,
+                "activityId": "",
+                "price": 118.8,
+                "couponType": 0,
+                "name": "百雀羚草本精萃惊喜套装（洁面95g+水100ml+乳100ml+霜50g）",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/992/image/10001/069a3cd0-cd2b-11e9-8b55-d961b6f221d8.jpg",
+                "spuId": 79209,
+                "commission": 23.76,
+                "state": 6,
+                "stock": 168
+            },
+            {
+                "marketPrice": 29.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3705
+                    },
+                    {
+                        "level": 3,
+                        "id": 3742
+                    }
+                ],
+                "couponId": "",
+                "sales": 35919,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "伊诗兰顿 柔和祛角质啫喱160g/瓶",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/544/image/10001/2e04b560-7df9-11e9-ae91-c310606ef2b1.jpg",
+                "spuId": 47352,
+                "commission": 0.59,
+                "state": 6,
+                "stock": 105756
+            },
+            {
+                "marketPrice": 89.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 29.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 2804
+                    },
+                    {
+                        "level": 2,
+                        "id": 2810
+                    },
+                    {
+                        "level": 3,
+                        "id": 2909
+                    }
+                ],
+                "couponId": "",
+                "sales": 36493,
+                "activityId": "",
+                "price": 29.9,
+                "couponType": 0,
+                "name": "五羊婴儿羊奶洗发沐浴露 1L×2瓶",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/1193/image/10001/960df2d0-a53f-11e9-a22a-35a7e4ea4ab2.jpg",
+                "spuId": 59150,
+                "commission": 2.99,
+                "state": 6,
+                "stock": 33757
+            },
+            {
+                "marketPrice": 89.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 29.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3705
+                    },
+                    {
+                        "level": 3,
+                        "id": 3742
+                    }
+                ],
+                "couponId": "",
+                "sales": 7695,
+                "activityId": "",
+                "price": 29.9,
+                "couponType": 0,
+                "name": "笛爱儿蜂蜜牛奶手蜡150g",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/2028/image/10001/11517720-c9a1-11e9-8430-fde261a05608.jpg",
+                "spuId": 77363,
+                "commission": 4.48,
+                "state": 6,
+                "stock": 16017
+            },
+            {
+                "marketPrice": 39.9,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 9.9,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3704
+                    },
+                    {
+                        "level": 3,
+                        "id": 3736
+                    }
+                ],
+                "couponId": "",
+                "sales": 19267,
+                "activityId": "",
+                "price": 9.9,
+                "couponType": 0,
+                "name": "雪玲妃脸部温和柠檬去角质素120g",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/850/image/10001/37924350-97e8-11e9-9e4d-793357ffd879.JPG",
+                "spuId": 54309,
+                "commission": 0.99,
+                "state": 6,
+                "stock": 4067
+            },
+            {
+                "marketPrice": 245.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 98.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 3,
+                        "id": 2583
+                    },
+                    {
+                        "level": 2,
+                        "id": 2006
+                    },
+                    {
+                        "level": 1,
+                        "id": 1967
+                    }
+                ],
+                "couponId": "",
+                "sales": 13850,
+                "activityId": "",
+                "price": 98.0,
+                "couponType": 0,
+                "name": "【降血脂】康麦斯美国进口深海鱼油调节血脂正品药房同款100粒",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/851/image/48950/98f76a50-ce14-11e9-8a6b-c34a5490f21b.jpg",
+                "spuId": 48950,
+                "commission": 7.84,
+                "state": 6,
+                "stock": 3955
+            },
+            {
+                "marketPrice": 398.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 336.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3707
+                    },
+                    {
+                        "level": 3,
+                        "id": 3708
+                    }
+                ],
+                "couponId": "",
+                "sales": 7737,
+                "activityId": "",
+                "price": 336.0,
+                "couponType": 0,
+                "name": "天使之魅泡泡精华粉底液（自然色/亮粉色） 两瓶装",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/602/image/116738/5fd40750-34fe-11ea-9033-97658429d437.jpg",
+                "spuId": 116738,
+                "commission": 20.16,
+                "state": 6,
+                "stock": 8853
+            },
+            {
+                "marketPrice": 298.0,
+                "couponName": "",
+                "saleType": 0,
+                "activityImg": "",
+                "priceType": 0,
+                "mallPrice": 59.0,
+                "type": 0,
+                "backCategories": [
+                    {
+                        "level": 1,
+                        "id": 3701
+                    },
+                    {
+                        "level": 2,
+                        "id": 3705
+                    },
+                    {
+                        "level": 3,
+                        "id": 3742
+                    }
+                ],
+                "couponId": "",
+                "sales": 41143,
+                "activityId": "",
+                "price": 59.0,
+                "couponType": 0,
+                "name": "【多规格】LiLiA活力紧致提拉美颈霜120g",
+                "faddishVirtualSales": 0,
+                "masterImg": "https://bimgs.weilaijishi.cn/product/1379/image/10001/c5eddb60-1578-11ea-bde7-5f6d107f69a2.jpg",
+                "spuId": 114521,
+                "commission": 5.9,
+                "state": 6,
+                "stock": 6852
+            }
+        ],
+        "title": "为你推荐",
+        "totalCount": 100,
+        "totalPage": 5
+    },
+    "success": true
+}

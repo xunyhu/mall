@@ -1,0 +1,160 @@
+{
+    "modules": [
+        {
+            "responsed": true,
+            "pid": 502,
+            "bannerData": [
+                {
+                    "h5Url": "//m.weilaijishi.cn/#/goodsDetail?",
+                    "recordId": "3933",
+                    "imageUrl": "https://lego-activity.weilaijishi.cn/resource/39c13ab0-1dab-11eb-8bd2-912a1adc472e.jpg",
+                    "appUrl": "futurebazaar://main/goodsDetail?",
+                    "backgroundImageUrl": ""
+                }
+            ],
+            "type": "banner"
+        },
+        {
+            "responsed": true,
+            "pid": 504,
+            "type": "box",
+            "boxData": [
+                {
+                    "h5Url": "http://mall-activity.weilaijishi.cn/newactivities/index/",
+                    "recordId": "3235",
+                    "appUrl": "http://mall-activity.weilaijishi.cn/newactivities/index/",
+                    "iconUrl": "https://lego-activity.weilaijishi.cn/resource/e6e440d0-127a-11ea-a4d3-ab1ba1e0906c.png",
+                    "title": "新人专享",
+                    "fontColor": "#000000"
+                },
+                {
+                    "h5Url": "https://lego-activity.weilaijishi.cn/activity/1577071493100/index.html?from=%E9%9B%86%E5%B8%82%E4%BC%98%E9%80%89-%E6%97%A5%E5%B8%B8%E7%89%88",
+                    "recordId": "3239",
+                    "appUrl": "https://lego-activity.weilaijishi.cn/activity/1577071493100/index.html?from=%E9%9B%86%E5%B8%82%E4%BC%98%E9%80%89-%E6%97%A5%E5%B8%B8%E7%89%88",
+                    "iconUrl": "https://lego-activity.weilaijishi.cn/resource/e6cfce70-127a-11ea-a36f-070bfb94bdfb.png",
+                    "title": "集市优选",
+                    "fontColor": "#000000"
+                }
+            ]
+        },
+        {
+            "faddishData": {
+                "background": "https://bimgs.weilaijishi.cn/platform/wechat/avatar/4d24eab4-7d51-48c5-b7a9-637d0ddad44c.png",
+                "button": "",
+                "buttonType": 0,
+                "timeSection": {
+                    "background": "https://e-prepro-future-mall.oss-cn-hangzhou.aliyuncs.com/test-plantform/wechat/avatar/004a25a1-8413-4df4-aa5e-f1fa6fd51042.png",
+                    "dateList": [
+                        {
+                            "endTime": 1615737599000,
+                            "faddishDate": 1615564800000,
+                            "faddishId": "1ff2d95c285f4a26b177c3f377d22efb",
+                            "id": "66c83b6815ae4d078cd51d4d37ee4d35",
+                            "pointTime": "10:00",
+                            "productCount": 9,
+                            "startTime": 1615600800000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615737599000,
+                            "faddishDate": 1615564800000,
+                            "faddishId": "1ff2d95c285f4a26b177c3f377d22efb",
+                            "id": "84b128042b564c15b1283eda6e8eb31d",
+                            "pointTime": "15:00",
+                            "productCount": 6,
+                            "startTime": 1615618800000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615737599000,
+                            "faddishDate": 1615564800000,
+                            "faddishId": "1ff2d95c285f4a26b177c3f377d22efb",
+                            "id": "eddc15fb552e4053858b794064d20fd6",
+                            "pointTime": "20:00",
+                            "productCount": 7,
+                            "startTime": 1615636800000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615823999000,
+                            "faddishDate": 1615651200000,
+                            "faddishId": "4073458d9efb410e99fb193405f57016",
+                            "id": "bc6b2bd5df4d4907b31e0c25234a14a9",
+                            "pointTime": "10:00",
+                            "productCount": 9,
+                            "startTime": 1615687200000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615823999000,
+                            "faddishDate": 1615651200000,
+                            "faddishId": "4073458d9efb410e99fb193405f57016",
+                            "id": "02982379f1cc4e2d9d97e9a17f62e6b8",
+                            "pointTime": "15:00",
+                            "productCount": 8,
+                            "startTime": 1615705200000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615823999000,
+                            "faddishDate": 1615651200000,
+                            "faddishId": "4073458d9efb410e99fb193405f57016",
+                            "id": "11cfdc45ad3641d8b3cd5e2866fb2072",
+                            "pointTime": "20:00",
+                            "productCount": 8,
+                            "startTime": 1615723200000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615910399000,
+                            "faddishDate": 1615737600000,
+                            "faddishId": "bae5337da8f04803b4cf54f119108c03",
+                            "id": "0df1e7411e1f4ba7b631265702bb62f5",
+                            "pointTime": "10:00",
+                            "productCount": 9,
+                            "startTime": 1615773600000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615910399000,
+                            "faddishDate": 1615737600000,
+                            "faddishId": "bae5337da8f04803b4cf54f119108c03",
+                            "id": "7a27346ab09d402fbe20a248a1187109",
+                            "pointTime": "15:00",
+                            "productCount": 8,
+                            "startTime": 1615791600000,
+                            "type": 0
+                        },
+                        {
+                            "endTime": 1615910399000,
+                            "faddishDate": 1615737600000,
+                            "faddishId": "bae5337da8f04803b4cf54f119108c03",
+                            "id": "b6c2a036f02548d8a3a799c4beac5121",
+                            "pointTime": "20:00",
+                            "productCount": 7,
+                            "startTime": 1615809600000,
+                            "type": 0
+                        }
+                    ],
+                    "id": "1"
+                },
+                "title": "集市爆款",
+                "type": 0
+            },
+            "responsed": true,
+            "type": "faddish"
+        },
+        {
+            "responsed": false,
+            "pid": 509,
+            "type": "brand",
+            "title": "品牌精选"
+        },
+        {
+            "responsed": false,
+            "pid": 0,
+            "type": "recommend",
+            "title": "为你推荐"
+        }
+    ]
+}

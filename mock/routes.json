@@ -1,0 +1,6 @@
+{
+    "/api/layout": "/layout",
+    "/api/brands": "/brands",
+    "/api/faddish": "/faddish",
+    "/api/recmmeod": "/recmmeod"
+}

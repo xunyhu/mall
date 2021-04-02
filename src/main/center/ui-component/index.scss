@@ -1,0 +1,177 @@
+.header_wrap {
+  height: 157px;
+  padding-top: 63px;
+  margin-bottom: 20px;
+  background: linear-gradient(315deg, #f6c353, #ecba47);
+  border-radius: 0 0 15% 15%;
+
+  .box_wrap {
+    width: 345px;
+    height: 174px;
+    background: linear-gradient(314deg, #ffe9c7, #fff2de);
+    border-radius: 8px;
+    margin: auto;
+    position: relative;
+  }
+
+  .info {
+    -webkit-box-flex: 1;
+    flex: 1 1;
+    .info_header {
+      display: -webkit-box;
+      display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: start;
+      align-items: flex-start;
+      padding: 31px 15px 0;
+      .info_leftBox {
+        display: flex;
+        img {
+          width: 36px;
+          height: 36px;
+          border: 2px solid #fff;
+          border-radius: 50%;
+        }
+        .content_box {
+          overflow: hidden;
+          padding-left: 10px;
+          .member_name {
+            font-size: 14px;
+            line-height: 25px;
+            font-weight: 600;
+            color: #666;
+            -webkit-box-flex: 1;
+            flex: 1 1;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+            word-break: break-all;
+            .invete {
+              display: flex;
+              overflow: hidden;
+              border-top-right-radius: 10px;
+              border-bottom-right-radius: 10px;
+              -webkit-box-align: center;
+              align-items: center;
+
+              .inviteCodeContent {
+                display: flex;
+                height: 17px;
+                line-height: 17px;
+                -webkit-box-align: center;
+                align-items: center;
+                background-color: #ffe4ba;
+                padding: 0 8px;
+                margin-right: 2px;
+                border-top-left-radius: 10px;
+                border-bottom-left-radius: 10px;
+                .id {
+                  font-size: 12px;
+                  font-weight: 400;
+                  color: #666;
+                  .commonCopyClip {
+                    position: relative;
+                    display: inline-block;
+                    font-style: normal;
+                    .copyWord {
+                      color: #666;
+                      padding-left: 8px;
+                    }
+                  }
+                }
+              }
+
+              .codeBox {
+                height: 17px;
+                line-height: 20px;
+                background-color: #ffe4ba;
+                padding: 0 8px;
+                border-top-right-radius: 8px;
+                border-bottom-right-radius: 8px;
+                img {
+                  width: 14px;
+                  height: 14px;
+                  border: none;
+                  border-radius: unset;
+                }
+              }
+            }
+          }
+        }
+      }
+      img {
+        width: 30px;
+        height: 30px;
+      }
+    }
+    .info_content {
+      width: 100%;
+      padding-top: 15px;
+      color: #333;
+      display: -webkit-box;
+      display: flex;
+      .content_item {
+        width: 33.3%;
+        text-align: center;
+        .money {
+          color: #333;
+          line-height: 30px;
+          span {
+            font-size: 25px;
+            font-weight: 500;
+          }
+        }
+        .text {
+          opacity: 0.6;
+          font-size: 12px;
+        }
+        .table {
+          margin-top: 5px;
+          font-size: 12px;
+          font-family: PingFangSC-Regular, PingFang SC;
+          font-weight: 400;
+          color: #7c430a;
+          line-height: 14px;
+          padding: 1px 6px;
+          border: 1px solid;
+          border-radius: 8px;
+          display: inline-block;
+        }
+      }
+    }
+  }
+}
+
+.icon_wrap {
+  padding: 12px 15px;
+  .icon_list_box {
+    background-color: #fff;
+    border-radius: 8px;
+    .icon_content {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      padding: 20px 0 5px;
+
+      .icon_item {
+        width: 25%;
+        display: flex;
+        padding-bottom: 15px;
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+        font-weight: 400;
+        color: #333;
+        .img_box,
+        img {
+          width: 44px;
+          height: 44px;
+        }
+        .img_txt {
+          padding-top: 3px;
+        }
+      }
+    }
+  }
+}

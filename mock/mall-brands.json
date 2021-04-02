@@ -1,0 +1,99 @@
+{
+    "errorCode": 0,
+    "errorMsg": "成功",
+    "result": {
+        "brands": [
+            {
+                "h5Url": "//m.weilaijishi.cn/#/supplierShop?id=1664",
+                "recordId": "3973",
+                "brandName": "微笑先生",
+                "imageUrl": "https://lego-activity.weilaijishi.cn/resource/0817bd00-7665-11eb-ba11-3d02f14dc693.jpg",
+                "goods": [
+                    {
+                        "marketPrice": 528.0,
+                        "productId": 121509,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=121509",
+                        "sales": 340,
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=121509",
+                        "activityPrice": 108.0,
+                        "activityTitle": "爆款",
+                        "price": 138.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生男鞋透气运动潮流百搭老爹鞋男",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/121509/16b3ecc0-2968-11eb-a13c-edcf618075cf.jpg",
+                        "commission": 10.8,
+                        "activityType": 2
+                    },
+                    {
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=121317",
+                        "marketPrice": 528.0,
+                        "productId": 121317,
+                        "price": 138.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生ins男潮鞋透气新款潮流百搭跑步鞋",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/121317/241134d0-0df8-11eb-aebf-c940c30611b0.JPG",
+                        "commission": 13.8,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=121317",
+                        "sales": 640
+                    },
+                    {
+                        "marketPrice": 528.0,
+                        "productId": 72529,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=72529",
+                        "sales": 16703,
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=72529",
+                        "activityPrice": 78.0,
+                        "activityTitle": "爆款",
+                        "price": 98.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生飞织闪电刀锋气垫鞋男",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/72529/2fc06470-f23f-11e9-a423-33d9f1008b5f.jpg",
+                        "commission": 7.8,
+                        "activityType": 2
+                    },
+                    {
+                        "marketPrice": 528.0,
+                        "productId": 121839,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=121839",
+                        "sales": 5,
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=121839",
+                        "activityPrice": 118.0,
+                        "activityTitle": "爆款",
+                        "price": 138.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生跑步旅游休闲运动百搭鞋子男潮鞋",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/10001/92fa6330-4818-11eb-820e-8f89e4d344e2.jpg",
+                        "commission": 11.8,
+                        "activityType": 2
+                    },
+                    {
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=121927",
+                        "marketPrice": 528.0,
+                        "productId": 121927,
+                        "price": 138.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生潮鞋椰子男鞋休闲潮流飞织运动鞋",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/10001/1e6c71b0-5ee4-11eb-b831-e7af14659d39.jpg",
+                        "commission": 13.8,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=121927",
+                        "sales": 0
+                    },
+                    {
+                        "h5Url": "https://m.weilaijishi.cn/#/goodsDetail?id=121939",
+                        "marketPrice": 528.0,
+                        "productId": 121939,
+                        "price": 138.0,
+                        "dataOriginType": "3",
+                        "name": "微笑先生透气爆米花潮流百搭休闲鞋运动鞋",
+                        "masterImg": "https://bimgs.weilaijishi.cn/product/1664/image/10001/dec77020-6530-11eb-b1ad-a9b238befed0.jpg",
+                        "commission": 13.8,
+                        "appUrl": "futurebazaar://main/goodsDetail?productId=121939",
+                        "sales": 0
+                    }
+                ],
+                "appUrl": "futurebazaar://main/supplierShop?sellerId=1664"
+            }
+        ]
+    },
+    "success": true
+}

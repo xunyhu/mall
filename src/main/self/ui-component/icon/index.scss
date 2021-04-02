@@ -1,0 +1,31 @@
+.icon_list_wrap {
+  padding: 0 18px;
+
+  .icon_list {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 16px 0;
+    
+    .icon_item {
+      width: 25%;
+      display: flex;
+      padding-bottom: 15px;
+      flex-direction: column;
+      align-items: center;
+      font-size: 12px;
+      font-weight: 400;
+      color: #333;
+      .img_box,
+      img {
+        width: 44px;
+        height: 44px;
+      }
+      .img_txt {
+        padding-top: 3px;
+      }
+    }
+  }
+}

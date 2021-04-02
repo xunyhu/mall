@@ -1,0 +1,120 @@
+.card_wrap {
+  padding: 0 15px;
+  background: #f8f8f8
+    url(https://imgs.weilaijishi.cn/h5mall/user/bgc-update.png) no-repeat
+    top/100% auto;
+
+  .user_wrap {
+    padding-top: 39px;
+    color: #fff;
+    .user_info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      .user_img,
+      img {
+        width: 58px;
+        height: 58px;
+        display: block;
+      }
+      .user_name {
+        padding-left: 11px;
+        .nameBox {
+          font-size: 20px;
+          font-weight: 500;
+        }
+        .getCode {
+          display: inline-flex;
+          -webkit-box-align: center;
+          align-items: center;
+          margin-right: 6px;
+          padding: 3px 6px;
+          border-radius: 20px;
+          text-align: center;
+          background-color: hsla(0, 0%, 100%, 0.3);
+          font-size: 12px;
+        }
+      }
+    }
+
+    .shop_info {
+      display: flex;
+      margin-bottom: 15px;
+      .info_item {
+        width: 33.3%;
+        text-align: center;
+        span {
+          font-size: 18px;
+          font-weight: 600;
+        }
+        p {
+          margin: 0;
+          line-height: 18px;
+          font-size: 12px;
+        }
+      }
+    }
+
+    .user_order {
+      background: #fff;
+      overflow: hidden;
+      border-radius: 10px;
+      margin-bottom: 12px;
+      color: #333;
+
+      .order_tap {
+        overflow: hidden;
+        padding: 8px 14px 7px 15px;
+        box-sizing: border-box;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+        border-bottom: 1px solid #eee;
+        justify-content: space-between;
+      }
+
+      .order_tap div:nth-child(2) {
+        font-size: 12px;
+        font-weight: 400;
+        color: #999;
+        display: flex;
+        align-items: center;
+        span {
+          width: 7px;
+          height: 7px;
+          border-top: 1.5px solid #999;
+          border-right: 1.5px solid #999;
+          -webkit-transform: rotate(47deg);
+          transform: rotate(47deg);
+          display: inline-block;
+          margin-left: 2px;
+        }
+      }
+
+      .order_box {
+        padding: 18px 15px 12px 15px;
+        .order_body {
+          margin-bottom: 10px;
+          display: flex;
+          -webkit-box-pack: justify;
+          justify-content: space-between;
+          .orderStatusItem {
+            position: relative;
+            img {
+              margin: 0 auto;
+              width: 32px;
+              height: 32px;
+              display: block;
+            }
+            div {
+              font-size: 12px;
+              font-weight: 400;
+              color: #333;
+            }
+          }
+        }
+      }
+    }
+  }
+}
