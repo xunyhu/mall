@@ -1,0 +1,30 @@
+.BottomBox {
+    height: 50px;
+}
+.BottomWrap {
+    height: 50px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    .itemWrap {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 25%;
+        color: #bbb;
+        .imgWrap, img {
+            width: 22px;
+            height: 22px;
+        }
+        .titleWrap {
+            font-size: 14px;
+        }
+    }
+    .activeItem {
+        color: #666;
+    }
+}

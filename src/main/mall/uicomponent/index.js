@@ -6,6 +6,7 @@ import Iconlist from './iconlist'
 import Faddish from './faddish'
 import Brand from './brand'
 import Recommend from './recommend'
+import Tab from '@component/tabbar'
 
 const MallUi = (props) => {
     // console.log(props)
@@ -22,6 +23,7 @@ const MallUi = (props) => {
             return <Brand data={item} key={index} />
         })}
         {recmmeod.data && <Recommend data={recmmeod} />}
+        <Tab page='home' {...props}/>
     </>
 }
 

@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 import routes from "./routes";
+import NoPage from '@component/404'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
           );
         })}
         <Redirect exact from="/" to="/home" />
+        <Route path="*" component={NoPage} />
       </Switch>
     </Router>
   );
