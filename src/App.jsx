@@ -1,15 +1,24 @@
-import React from 'react'
-import Home from './main/index'
+import React from "react";
+import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
+import routes from "./routes";
 
 const App = () => {
-    return <Home />
-}
+  return (
+    <Router>
+      <Switch>
+        {routes.map((k, i) => {
+          return (
+            <Route
+              key={i}
+              path={k.path}
+              render={(props) => <k.component {...props} />}
+            />
+          );
+        })}
+        <Redirect exact from="/" to="/home" />
+      </Switch>
+    </Router>
+  );
+};
 
-export default App
-
-
-/**
- * 1、使用antd mobie
- * 2、使用css in js、vw
- * 3、使用redux、react-router、hooks
- */
+export default App;
