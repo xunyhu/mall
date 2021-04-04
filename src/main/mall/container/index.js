@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import MallUI from '../uicomponent'
-import { loadLayoutAsync, loadBrandsAsync, loadFaddishAsync, loadRecmAsync } from '../actionCreator'
+import { loadLayoutAsync, loadBrandsAsync, loadFaddishAsync, loadRecmAsync } from '../action/actionCreator'
 
 // @connect()
 class Container extends Component {

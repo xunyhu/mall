@@ -1,5 +1,5 @@
 import { LOADLAYOUT, LOADBRANDS, LOADFADDISH, LOADRECM } from './actionTypes'
-import Http from '../../utils/http'
+import Http from '../../../utils/http'
 
 const loadLayout = list => {
     return {

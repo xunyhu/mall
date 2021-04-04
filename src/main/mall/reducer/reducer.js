@@ -1,4 +1,4 @@
-import { LOADLAYOUT, LOADBRANDS, LOADFADDISH, LOADRECM } from './actionTypes'
+import { LOADLAYOUT, LOADBRANDS, LOADFADDISH, LOADRECM } from '../action/actionTypes'
 
 const initialState = {
     layoutList: [],
