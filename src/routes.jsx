@@ -1,7 +1,7 @@
 import { Mall } from './main/mall'
 import Discover from './main/discover'
 import Center from './main/center'
-import Self from './main/self/index'
+import { Self } from './main/self'
 
 const routes = [
   {

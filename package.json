@@ -162,11 +162,20 @@
     "resetMocks": true
   },
   "babel": {
+    "plugins": [
+      [
+        "@babel/plugin-proposal-decorators",
+        {
+          "legacy": true
+        }
+      ]
+    ],
     "presets": [
       "react-app"
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.13.5",
     "@types/react": "^17.0.3",
     "axios": "^0.21.1",
     "json-server": "^0.16.3",

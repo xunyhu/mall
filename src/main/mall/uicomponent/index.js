@@ -5,7 +5,7 @@ import Banner from './banner'
 import Iconlist from './iconlist'
 import Faddish from './faddish'
 import Brand from './brand'
-import Recommend from './recommend'
+import Recommend from '@component/recommend'
 import Tab from '@component/tabbar'
 
 const MallUi = (props) => {

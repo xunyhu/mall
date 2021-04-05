@@ -6,7 +6,10 @@ import { loadLayoutAsync, loadBrandsAsync, loadFaddishAsync, loadRecmAsync } fro
 // @connect()
 class Container extends Component {
     componentDidMount() {
-        this.props.loadData()
+        !this.props.layoutList.length && this.props.loadLayout()
+        !this.props.brands.length && this.props.loadBrand()
+        !this.props.faddish.length && this.props.loadFaddish()
+        !this.props.recmmeod.title && this.props.loadRecm()
     }
 
     render() {
@@ -15,21 +18,26 @@ class Container extends Component {
 }
 
 const mapStateToProps = (state) => {
-    // console.log(state)
     return {
         layoutList: state.mallReducer.layoutList,
         brands: state.mallReducer.brands,
         faddish: state.mallReducer.faddish,
-        recmmeod: state.mallReducer.recmmeod,
+        recmmeod: state.mallReducer.recmmeod.title ? state.mallReducer.recmmeod : state.selfReducer.recomendInfo,
     }
 }
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        loadData() {
+        loadLayout() {
             dispatch(loadLayoutAsync())
+        },
+        loadBrand() {
             dispatch(loadBrandsAsync())
+        },
+        loadFaddish() {
             dispatch(loadFaddishAsync())
+        },
+        loadRecm() {
             dispatch(loadRecmAsync())
         }
     }
