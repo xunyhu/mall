@@ -1,5 +1,7 @@
-import React from 'react'
+import Commodity from './container'
+import Reducer from './reducer/reduce'
 
-const Commodity = () => {
-    
+export {
+    Commodity,
+    Reducer
 }

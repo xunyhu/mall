@@ -1,0 +1,62 @@
+{
+    "errorCode": 0,
+    "errorMsg": "成功",
+    "result": {
+        "actives": [{
+            "activeType": 2,
+            "aid": "1538262b665e4a7cbf7c2d5159e9814b",
+            "commission": 5.99,
+            "endTime": 1617465599000,
+            "price": 59.9,
+            "startTime": 1617346800000
+        }],
+        "boolActivity": "isActivity",
+        "code": "W-504",
+        "commission": 11.9,
+        "commonExtend": {
+            "deliveryCountryCode": "CN"
+        },
+        "deduction": {
+            "formName": "MARKET_CURRENCY",
+            "formValue": 0.0
+        },
+        "description": "<p></p><div class='media-wrap image-wrap'><img src='https://lego-activity.weilaijishi.cn/resource/64707f50-6469-11eb-ba11-3d02f14dc693.jpg'/></div><p></p><p size='5' _root='[object Object]' __ownerid='undefined' __hash='undefined' __altered='false'></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/73b47d10-05d6-11ea-b470-d9ffb8c83b6c.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20a8c5d0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20bfa930-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20cb6900-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20d5a230-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20e1fe40-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/20ec1060-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/210341e0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/210df040-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/211bd2f0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/212c26a0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/2151fe20-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/2164e9e0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/2177d5a0-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p><div class='media-wrap image-wrap'><img class='media-wrap image-wrap' src='https://bimgs.weilaijishi.cn/seller/2530/common/21880240-0375-11ea-9ced-11a3130afbab.jpg'/></div><p></p>",
+        "marketPrice": 596.0,
+        "masterImg": "https://bimgs.weilaijishi.cn/product/2530/image/10001/98f28410-ffb3-11e9-8a5b-25598b85e653.jpg",
+        "name": "【超值2套文胸套装组合】韩束无钢圈聚拢调整型收副乳文胸套装",
+        "pid": 110490,
+        "price": 119.0,
+        "productExtra": false,
+        "productNum": "349472100024",
+        "saleType": 0,
+        "shopId": 2530,
+        "status": 6,
+        "transportId": 2625,
+        "transportType": 1,
+        "type": 0,
+        "videoUrl": "https://bimgs.weilaijishi.cn/prod/2530/video/10002/a07a9dd0-ffb3-11e9-8a5b-25598b85e653.mp4",
+        "sales": 190696,
+        "imgList":  [{
+            "imagePath": "https://bimgs.weilaijishi.cn/product/2530/image/10001/98f28410-ffb3-11e9-8a5b-25598b85e653.jpg",
+            "pictureId": 2358227,
+            "sort": 0
+        }, {
+            "imagePath": "https://bimgs.weilaijishi.cn/product/2530/image/10001/94f73a90-ffb3-11e9-8a5b-25598b85e653.jpg",
+            "pictureId": 2358228,
+            "sort": 1
+        }, {
+            "imagePath": "https://bimgs.weilaijishi.cn/product/2530/image/110490/5317ff40-0375-11ea-9ced-11a3130afbab.jpg",
+            "pictureId": 2358229,
+            "sort": 2
+        }, {
+            "imagePath": "https://bimgs.weilaijishi.cn/product/2530/image/10001/991cc860-ffb3-11e9-8a5b-25598b85e653.jpg",
+            "pictureId": 2358230,
+            "sort": 3
+        }, {
+            "imagePath": "https://bimgs.weilaijishi.cn/product/2530/image/10001/992e5490-ffb3-11e9-8a5b-25598b85e653.jpg",
+            "pictureId": 2358231,
+            "sort": 4
+        }]
+    },
+    "success": true
+}

@@ -2,6 +2,7 @@ import { Mall } from './main/mall'
 import Discover from './main/discover'
 import Center from './main/center'
 import { Self } from './main/self'
+import { Commodity } from './main/commodity'
 
 const routes = [
   {
@@ -19,6 +20,10 @@ const routes = [
   {
     path: "/self",
     component: Self,
+  },
+  {
+    path: "/commodity",
+    component: Commodity,
   },
 ];
 

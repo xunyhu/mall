@@ -2,5 +2,6 @@
     "/api/layout": "/layout",
     "/api/brands": "/brands",
     "/api/faddish": "/faddish",
-    "/api/recmmeod": "/recmmeod"
+    "/api/recmmeod": "/recmmeod",
+    "/api/product": "/product"
 }
