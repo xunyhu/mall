@@ -2,9 +2,14 @@ import React from "react";
 import styles from "./index.scss";
 
 const Recommend = (props) => {
+  const handleClick = () => {
+    props.history.push('/commodity')
+  };
+
   const {
     data: { data, title },
   } = props;
+
   return (
     <div className={styles.recommend}>
       <div className={styles.title}>
@@ -25,7 +30,11 @@ const Recommend = (props) => {
               mallPrice,
             } = item;
             return (
-              <div className={styles.itemWrap} key={spuId}>
+              <div
+                className={styles.itemWrap}
+                key={spuId}
+                onClick={handleClick}
+              >
                 <div className={styles.item}>
                   <div className={styles.goodsWrap}>
                     <div className={styles.imgBox}>

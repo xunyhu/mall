@@ -2,8 +2,9 @@ import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { LoadProductAsync } from "../actions/actionCreate";
 import Banner from "../component/banner/banner";
+import styles from './index.scss'
 
-const Commodity = () => {
+const Commodity = (props) => {
   const store = useSelector(state => state.goodsReducer);
   const dispatch = useDispatch();
   const { productInfo } = store;
@@ -12,13 +13,16 @@ const Commodity = () => {
     dispatch(LoadProductAsync());
   }, [dispatch]);
 
-  // console.log("productInfo", productInfo);
+  const handleClick = () => {
+    props.history.goBack()
+  }
 
   const { imgList } = productInfo;
   return (
-    <React.Fragment>
+    <div className={styles.wrap}>
       <Banner data={imgList} />
-    </React.Fragment>
+      <div className={styles.backIcon} onClick={handleClick}></div>
+    </div>
   );
 };
 

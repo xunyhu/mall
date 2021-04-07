@@ -1,0 +1,13 @@
+.wrap {
+    min-height: 100vh;
+    .backIcon {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        position: fixed;
+        top: 10px;
+        left: 15px;
+        background: url('../../../assets/unnamed.jpg') no-repeat center;
+        background-size: 100%;
+    }
+}

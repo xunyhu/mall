@@ -10,6 +10,7 @@ const App = () => {
         {routes.map((k, i) => {
           return (
             <Route
+              exact
               key={i}
               path={k.path}
               render={(props) => <k.component {...props} />}

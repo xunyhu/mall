@@ -32,8 +32,8 @@ class Self extends Component {
         return (
             <div>
                 <Crad />
-                <IconList/>
-                {recomend.data && <Recommend data={recomend} />}
+                <IconList {...this.props}/>
+                {recomend.data && <Recommend data={recomend} {...this.props} />}
                 <Tab page='self' {...this.props}/>
             </div>
         )

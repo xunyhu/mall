@@ -1,31 +1,36 @@
 import React from "react";
+import { RouteComponentProps } from 'react-router-dom';
 import styles from "./index.scss";
 
 interface Icon {
   url: string;
   name: string;
+  path?: string;
 }
 
 const IconList: Array<Icon> = [
   {
     url:
       "https://imgs.weilaijishi.cn/h5mall/user/group_0.png?x-oss-process=image/resize,w_300,limit_1",
-    name: "权益卡包",
+    name: "基础题",
+    path: '/a/basic',
   },
   {
     url:
       "https://imgs.weilaijishi.cn/h5mall/user/group_1.png?x-oss-process=image/resize,w_300,limit_1",
-    name: "优惠券",
+    name: "ECMAScript6",
+    path: '/a/ecma6',
   },
   {
     url:
       "https://imgs.weilaijishi.cn/h5mall/user/group_2.png?x-oss-process=image/resize,w_300,limit_1",
-    name: "集市币",
+    name: "TypeScript",
   },
   {
     url:
       "https://imgs.weilaijishi.cn/h5mall/user/group_3.png?x-oss-process=image/resize,w_300,limit_1",
-    name: "商旅订单",
+    name: "ListExample",
+    path: "/a/list-example",
   },
   {
     url:
@@ -49,13 +54,22 @@ const IconList: Array<Icon> = [
   },
 ];
 
-const IconComponent: React.FC = () => {
+interface ClickType {
+  (params?: any): void;
+}
+
+const IconComponent: React.FC<RouteComponentProps> = (props) => {
+
+  const handleClick: ClickType = (item) => {
+    props?.history.push(item.path)
+  }
+
   return (
     <div className={styles.icon_list_wrap}>
       <div className={styles.icon_list}>
         {IconList.map((item, index) => {
           return (
-            <div className={styles.icon_item} key={index}>
+            <div className={styles.icon_item} key={index} onClick={() => { handleClick(item) }}>
               <div className={styles.img_box}>
                 <img alt="" src={item.url} />
               </div>

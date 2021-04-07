@@ -4,13 +4,14 @@
 
 $icon: '../../../assets/icon/';
 
-.wrap {
+.searchWrap {
     display: flex;
     -webkit-box-align: center;
     align-items: center;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    padding: 0.12rem 0.15rem;
+    padding: 12px 15px;
+    height: 32px;
     -webkit-transition: background-image 0.3s;
     transition: background-image 0.3s;
     background-size: 100%;
@@ -24,24 +25,24 @@ $icon: '../../../assets/icon/';
         align-items: center;
         -webkit-box-pack: center;
         justify-content: center;
-        margin-right: 0.16rem;
+        margin-right: 16px;
         span {
             background-image: url($icon + "menu-black.png");
             display: inline-block;
             position: relative;
-            width: 0.24rem;
-            height: 0.24rem;
+            width: 24px;
+            height: 24px;
             background-repeat: no-repeat;
             background-size: 100% 100%;
         }
     }
     div:nth-child(2) {
-        padding-left: 0.08rem;
-        text-indent: 0.2rem;
-        width: 2.57rem;
-        height: 0.32rem;
+        padding-left: 8px;
+        text-indent: 20px;
+        width: 257px;
+        height: 32px;
         background: #f5f5f5;
-        border-radius: 0.5rem;
+        border-radius: 50px;
         display: -webkit-box;
         display: flex;
         -webkit-box-align: center;
@@ -51,8 +52,8 @@ $icon: '../../../assets/icon/';
         color: #bbb;
         background-image: url($icon + "search_icon@2x.png");
         background-repeat: no-repeat;
-        background-size: 0.16rem 0.16rem;
-        background-position: 0.08rem center;
+        background-size: 16px 16px;
+        background-position: 8px center;
     }
     div:nth-child(3) {
         display: -webkit-box;
@@ -64,13 +65,24 @@ $icon: '../../../assets/icon/';
         align-items: center;
         -webkit-box-pack: center;
         justify-content: center;
-        margin-left: 0.16rem;
+        margin-left: 16px;
         position: relative;
-        width: 0.24rem;
-        height: 0.24rem;
+        width: 24px;
+        height: 24px;
         background-image: url($icon + "message-black.png");
         background-repeat: no-repeat;
         background-size: 100% 100%;
+    }
+}
+
+.bannerWrap {
+    height: 137px;
+    position: relative;
+    :global(.am-carousel) {
+        position: static !important; 
+    };
+    :global(.slider-list) {
+        height: 137px !important; 
     }
 }
 
