@@ -1,0 +1,27 @@
+.titleWrap {
+  padding: 10px 15px 15px;
+  background-color: #fff;
+  .price {
+    color: #ff354d;
+    font-weight: 600;
+    font-size: 20px;
+    span {
+      color: #d8d8d8;
+      font-weight: 400;
+      text-decoration: line-through;
+      font-size: 12px;
+      padding-left: 5px;
+    }
+  }
+  .title {
+    color: #333;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px 0;
+  }
+  .sales {
+    color: #999;
+    font-weight: 400;
+    font-size: 12px;
+  }
+}

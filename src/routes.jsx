@@ -1,9 +1,9 @@
-import { Mall } from "./main/mall";
-import Discover from "./main/discover";
-import Center from "./main/center";
-import { Self } from "./main/self";
-import { Commodity } from "./main/commodity";
-import { ListExample, Basic, Ecma6 } from './main/selfBasic'
+import { Mall } from "./pages/mall";
+import Discover from "./pages/discover";
+import Center from "./pages/center";
+import { Self } from "./pages/self";
+import { Commodity } from "./pages/commodity";
+import { ListExample, Basic, Ecma6 } from './pages/selfBasic'
 
 const routes = [
   {
