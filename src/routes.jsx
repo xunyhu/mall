@@ -3,7 +3,7 @@ import Discover from "./pages/discover";
 import Center from "./pages/center";
 import { Self } from "./pages/self";
 import { Commodity } from "./pages/commodity";
-import { ListExample, Basic, Ecma6 } from './pages/selfBasic'
+import { ListExample, Basic, Ecma6, Regx } from "./pages/selfBasic";
 
 const routes = [
   {
@@ -21,7 +21,7 @@ const routes = [
   {
     path: "/self",
     component: Self,
-    routes: []
+    routes: [],
   },
   //二级路由如何使用?
   {
@@ -31,6 +31,10 @@ const routes = [
   {
     path: "/a/basic",
     component: Basic,
+  },
+  {
+    path: "/a/basic/regx",
+    component: Regx,
   },
   {
     path: "/a/ecma6",

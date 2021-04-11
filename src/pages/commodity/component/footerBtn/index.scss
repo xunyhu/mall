@@ -1,0 +1,37 @@
+.footerWrap {
+  height: 56px;
+  .footerBox {
+    padding: 7px 15px;
+    height: 42px;
+    display: flex;
+    background-color: #fff;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    .left {
+      width: 38px;
+      height: 38px;
+      margin-right: 10px;
+      display: flex;
+      flex-direction: column;
+      font-size: 12px;
+      justify-content: center;
+      align-items: center;
+      .cart,
+      .icon {
+        width: 22px;
+        height: 22px;
+      }
+    }
+    .right {
+      color: #fff;
+      height: 42px;
+      line-height: 42px;
+      text-align: center;
+      background: #ffc11c;
+      flex: 1;
+      border-radius: 100px;
+    }
+  }
+}
